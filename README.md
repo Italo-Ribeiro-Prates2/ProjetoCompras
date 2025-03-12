@@ -17,4 +17,8 @@ Vamos implementar uma aplicação para registrar compras em um cartão de crédi
   6. Perguntar se o usuário deseja registrar uma nova compra ou finalizar;
   7. Caso ele deseje continuar, repetir os passos de 3 a 6, caso não, imprimir na tela o saldo final do cartão e a lista de compras realizadas, ordenadas pelo valor.
 
-<!-- Failed to upload "WhatsApp Video 2025-03-12 at 16.01.33_4c97cbbd.mp4" -->
+
+
+
+https://github.com/user-attachments/assets/3e2a42b0-a2a4-48aa-94da-806d4e7bb6ef
+
